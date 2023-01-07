@@ -157,8 +157,9 @@ footer .contact-box p {
 footer .email-link {
     text-decoration: none;
     color: black;
-    font-size: 24px;
+    font-size: 19px;
     text-align: center;
+    opacity: 0.9;
 }
 
 footer .email-link:hover {
@@ -171,7 +172,7 @@ footer .social-links a {
     background: var(--secondary-color);
     padding: 10px 15px;
     border-radius: 50%;
-    font-size: 18px;
+    font-size: 20px;
     transition: all 100ms ease-in-out;
 }
 
