@@ -159,7 +159,7 @@ footer .contact-box p {
 footer .email-link {
   text-decoration: none;
   color: black;
-  font-size: 24px;
+  font-size: 20px;
   opacity: 0.9;
 }
 
@@ -205,4 +205,10 @@ footer .social-links a:hover {
     padding: 0;
     text-align: center;
   }
+
+  footer .email-link {
+    font-size: 16px;
+  }
+
 }
+
